@@ -76,11 +76,8 @@ K/B: K
 - Input validation ensures only valid dice numbers are held.
 - The game resets held dice after banking points.
 
-## Future Enhancements (Optional)
-
-- Add multiplayer functionality.
+## Future Enhancements
 - Implement AI opponents for training purposes.
-- Improve input handling and error messages.
 
 Enjoy playing Farkle! 🎲
 

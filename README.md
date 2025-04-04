@@ -1,10 +1,10 @@
-# Farkle Game - README
+# 🎲 Dotty (Farkle) 🎲
 
-## Note - Currently ther eis no AI opponent to play against
+## Note - Currently there is no AI opponent to play against
 
 ## Overview
 
-This is a Python-based adaptation of the popular dice game **Farkle**, designed for both gameplay and potential use in machine learning training. The game involves rolling dice, holding specific dice to score points, and deciding whether to bank your points or risk rolling again to maximize your score. The objective is to reach a target score of **1500 points**.
+This is a Python-based adaptation of the popular dice game **Farkle**,(recently seen in KCD2), designed for both gameplay and potential use in machine learning training. The game involves rolling dice, holding specific dice to score points, and deciding whether to bank your points or risk rolling again to maximize your score. The objective is to reach a target score of **1500 points**.
 
 ## Features
 
